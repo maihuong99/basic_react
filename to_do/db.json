@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "huonghuongbk2010",
+      "completed": "True"
+    },
+    {
+      "userId": 1,
+      "title": "Phai lam duoc",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "maihuongbk",
+      "completed": "True",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "huonghuong99",
+      "completed": false,
+      "id": 13
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
